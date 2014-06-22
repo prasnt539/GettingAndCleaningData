@@ -1,5 +1,4 @@
 ## Getting and Cleaning Data Course Project
-## Tobias Crabtree  June 2014
 
 
 library(reshape2) ## use reshape2 package
